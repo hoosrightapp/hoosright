@@ -1,0 +1,20 @@
+//
+//  hoosright-Prefix.pch
+//  hoosright
+//
+//  Created by suman on 30/10/15.
+//  Copyright (c) 2015 Suman. All rights reserved.
+//
+
+#ifndef hoosright_hoosright_Prefix_pch
+#define hoosright_hoosright_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "InternetValidation.h"
+#import <Foundation/Foundation.h>
+#import <AVFoundation/AVFoundation.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import "AFNetworking.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#endif
